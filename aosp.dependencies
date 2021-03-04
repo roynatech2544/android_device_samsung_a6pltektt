@@ -1,0 +1,8 @@
+[
+  {
+    "repository":  "roynatech2544/android_device_samsung_a6plte_common",
+    "target_path": "device/samsung/a6plte-common",
+    "branch":      "lineage-18.1",
+    "remote":      "github"
+  }
+]
