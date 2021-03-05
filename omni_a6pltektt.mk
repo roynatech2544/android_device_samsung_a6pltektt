@@ -17,7 +17,7 @@
 $(call inherit-product, device/samsung/a6plte-common/a6plte.mk)
 
 # Inherit some common Pixel Experience stuff.
-$(call inherit-product, vendor/dot/config/common.mk)
+$(call inherit-product, vendor/omni/config/common.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_BRAND := samsung
