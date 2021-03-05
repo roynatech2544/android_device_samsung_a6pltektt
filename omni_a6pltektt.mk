@@ -22,7 +22,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 ## Device identifier. This must come after all inclusions
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
-PRODUCT_NAME := omni_a6pltektt
+PRODUCT_NAME := lineage_a6pltektt
 PRODUCT_DEVICE := a6pltektt
 PRODUCT_MODEL := SM-A605K
 
