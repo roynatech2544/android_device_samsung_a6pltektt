@@ -17,12 +17,12 @@
 $(call inherit-product, device/samsung/a6plte-common/a6plte.mk)
 
 # Inherit some common Pixel Experience stuff.
-$(call inherit-product, vendor/omni/config/common.mk)
+$(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
-PRODUCT_NAME := lineage_a6pltektt
+PRODUCT_NAME := aosp_a6pltektt
 PRODUCT_DEVICE := a6pltektt
 PRODUCT_MODEL := SM-A605K
 
